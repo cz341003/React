@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+.myInput {
+    width: 300px;
+}
+.container {
+    margin-top: 50px;
+}
+.myBtn {
+    margin-left: 10px;
+}

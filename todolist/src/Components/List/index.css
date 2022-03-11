@@ -1,0 +1,15 @@
+@import '~antd/dist/antd.css';
+.myList {
+	width: 400px;
+	margin: 20px auto;
+}
+.done {
+	margin-right: 5px;
+}
+.mySpan {
+    margin-left: 20px;
+}
+.delete {
+    width: 100%;
+    text-align: center;
+}
